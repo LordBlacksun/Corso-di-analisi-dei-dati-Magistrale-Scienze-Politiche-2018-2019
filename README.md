@@ -39,7 +39,7 @@ aprite un terminale e digitate ciò che segue:
 
 ```bash 
  sudo apt-get install r-base r-base-dev
-bash 
+
 ```
 
 Ubuntu 
@@ -65,7 +65,7 @@ poi premete
 
 
 1) Control+V  
-2)Control + O (é la lettera non lo zero). 
+2) Control + O (é la lettera non lo zero). 
 
 Dopodichè ritornate sul terminale e digitate il seguente:
 
