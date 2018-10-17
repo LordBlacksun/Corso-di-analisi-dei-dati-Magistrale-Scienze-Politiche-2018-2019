@@ -5,7 +5,7 @@ Come installare R
 -----------------
 R è il software che utilizzeremo per creare grafici al Pc.
 
-E' disponibile per Windows Mac OSX e per la maggioranza delle distribuzioni Linux.
+E' disponibile per Windows, Mac OSX, e per la maggioranza delle distribuzioni Linux.
 
 Windows
 -------
@@ -52,7 +52,7 @@ aprite un terminale  e digitate il seguente:
 ``
 su
 ``
-Inserite la password e poi fate come segue
+Inserite la password e poi DIGITATE QUANTO SEGUO segue
 
 `` 
 nano etc/apt/sources.list 
