@@ -52,7 +52,7 @@ aprite un terminale  e digitate il seguente:
 ``
 su
 ``
-Inserite la password e poi DIGITATE QUANTO SEGUO segue
+Inserite la password e poi digitato quanto segue
 
 `` 
 nano etc/apt/sources.list 
