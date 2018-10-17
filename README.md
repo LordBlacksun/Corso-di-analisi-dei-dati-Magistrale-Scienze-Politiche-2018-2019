@@ -49,7 +49,7 @@ Ubuntu
 
 aprite un terminale  e digitate il seguente:
 
-``bash 
+``
 su
 ``
 Inserite la password e poi fate come segue
