@@ -20,7 +20,8 @@ MacOSX
 -------
 
 
-Per installare R su Mac OSX è richiesto un toolkit per questioni di compatbilità (siccome R nasce in primis nell'ecosistema linux
+Per installare R su Mac OSX è richiesto un toolkit per questioni di compatbilità (siccome R nasce in primis nell'ecosistema Linux)
+
 
 Installate i programmi in questo ordine:
 
