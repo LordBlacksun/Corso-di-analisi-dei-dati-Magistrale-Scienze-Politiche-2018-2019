@@ -71,10 +71,11 @@ poi premete
 
 Dopodichè ritornate sul terminale e digitate il seguente:
 
-``bash 
+`` 
 sudo apt-get update
 sudo apt-get install r-base
 ``
+
 Come installare R Studio
 ------------------------
 RStudio è un programma open source che si integra con R e fornisce un interfaccia grafica con cui lavorare.
