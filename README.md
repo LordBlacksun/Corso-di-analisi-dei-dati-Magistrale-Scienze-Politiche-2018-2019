@@ -52,7 +52,8 @@ aprite un terminale  e digitate il seguente:
 su
 ``
 Inserite la password e poi fate come segue
-``bash 
+
+`` 
 nano etc/apt/sources.list 
 ``
 scorrete dove c'è spazio tra i vari link 
