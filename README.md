@@ -126,7 +126,8 @@ https://cran.rstudio.com/web/packages/xlsx
 
 tidyr
 -------
-Fornisce un toolset per convertire i dataset nel formato tidy, il formato che R preferisce ------> http://www.jstatsoft.org/v59/i10/paper (Un paper sul formato tidy in inglese.)
+Fornisce un toolset per convertire i dataset nel formato tidy, il formato che R preferisce 
+------> http://www.jstatsoft.org/v59/i10/paper (Un paper sul formato tidy in inglese.)
 
 
 Pacchetti extra per creare grafici
@@ -135,11 +136,14 @@ Pacchetti extra per creare grafici
 ggvis e gg2plot
 ----------------
 
+ggvis
+------
 (https://ggvis.rstudio.com/)
 
 Il manuale ------>https://ggvis.rstudio.com/ggvis-basics.html
 
-
+gg2plot
+-------
 (https://cran.r-project.org/web/packages/ggplot2/index.html)
 
 Il manuale di gg2plot è qui: https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf 
