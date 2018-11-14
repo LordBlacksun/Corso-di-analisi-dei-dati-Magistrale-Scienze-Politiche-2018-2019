@@ -149,3 +149,9 @@ gg2plot
 Il manuale di gg2plot è qui: https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf 
 
 
+Altre utilities utili 
+-------
+
+Le trovate qui  ( in inglese)
+
+https://github.com/qinwf/awesome-R
