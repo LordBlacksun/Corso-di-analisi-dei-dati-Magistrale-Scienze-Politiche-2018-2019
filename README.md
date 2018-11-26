@@ -149,9 +149,22 @@ gg2plot
 Il manuale di gg2plot è qui: https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf 
 
 
+QuestionR
+-----------
+
+Potete installarlo da r studio, o tramite interfaccia terminale digitando:
+
+``
+
+<install.packages("questionr"
+``
+
+
+
+
 Altre utilities utili 
 -------
 
-Le trovate qui  ( in inglese)
+Le trovate qui  ( in inglese).
 
 https://github.com/qinwf/awesome-R
