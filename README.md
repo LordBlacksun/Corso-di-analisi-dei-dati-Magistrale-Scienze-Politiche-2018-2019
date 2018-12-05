@@ -154,12 +154,18 @@ QuestionR
 
 Potete installarlo da r studio, o tramite interfaccia terminale digitando:
 
-``
+````
 
-<install.packages("questionr"
-``
+<install.packages("questionr")
+``````````````````````````
+FactoMineR
+-----------
 
-
+````
+install.packages("FactoMineR")
+````
+Manuale:
+https://cran.r-project.org/web/packages/FactoMineR/FactoMineR.pdf
 
 
 Altre utilities utili 
